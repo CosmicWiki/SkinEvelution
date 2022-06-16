@@ -20,7 +20,7 @@ wfLoadSkin( 'Evelution' );
 - New releaes on Evelution will always come by HM100. However, users with **Triage** access can merge others PRs to Evelution. Once I got access to Evelution Skin in my personal MW instance, I will try to merge the changes from this repo to the **Evelution** folder in my MW instance and will release a new release, major or minor.
 
 # More Help
-Join our [Discord server](https://discord.gg/a6FbV6zWFs) for additional assistance with Evelution.
+Join our [Discord server](https://discord.gg/a6FbV6zWFs) for additional assistance with Evelution and Ivilution.
 
 # Known Limitation
-- Toolbar can cover the page action dropdowns if the content area is too small. If it does that, collapse it.
+- On a small amount of 1.38 installs (Like my own), it may refuse to load
